@@ -9,6 +9,7 @@ List<Map<String, dynamic>> festivalData = [
     'fDesc':
         'Festival of Lights, celebrated by Hindus to mark the return of Lord Rama to Ayodhya.',
     'fReligion': 'Hinduism'
+    ''
   },
   {
     'fName': 'Christmas',

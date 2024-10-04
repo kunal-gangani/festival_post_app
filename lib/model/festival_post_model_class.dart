@@ -2,7 +2,7 @@ class FestivalPostModelClass {
   String fName;
   String fDesc;
   String fDay;
-  String fDate; // Change the type to String
+  String fDate; 
   String fMonth;
   String fReligion;
 
@@ -11,7 +11,7 @@ class FestivalPostModelClass {
     required this.fDesc,
     required this.fDay,
     required this.fMonth,
-    required this.fDate, // Updated here
+    required this.fDate, 
     required this.fReligion,
   });
 
