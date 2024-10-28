@@ -35,6 +35,10 @@ A Flutter application that showcases festival information, including the festiva
 <img src = "https://github.com/user-attachments/assets/fc78f76e-4b61-47f8-9246-4a72c3910ef6" height = "400em">
 <img src = "https://github.com/user-attachments/assets/68f025fc-8375-4af1-baba-25305b3c6c04" height = "400em">
 
+### Shared Image
+<img src = "https://github.com/user-attachments/assets/ca1a82ff-ed51-414b-a125-e5e123b283c1" height = "400em">
+
+
 ### Video Output
 https://github.com/user-attachments/assets/6c8ec62b-3847-4546-859d-283d0bd19079
 
